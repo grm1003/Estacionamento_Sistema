@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659992875 source:c:\projetos\c ufu\estacionamento\main.c
+	<stdio.h>
+	<stdlib.h>
+
